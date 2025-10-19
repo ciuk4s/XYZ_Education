@@ -8,6 +8,7 @@ SVARBUS TEISINIS ĮSPĖJIMAS
 
 Visi šioje talpykloje esantys metodai ir skriptai yra skirti tik mokymuisi, analizavimui ir gynybiniams tikslams. Griežtai draudžiama juos taikyti realiuose tinkluose, kurių jūs nevaldote arba neturite aiškaus rašytinio leidimo. Neautorizuotas tokios veiklos vykdymas gali būti neteisėtas ir užtraukti baudžiamąją ar civilinę atsakomybę.
 
+Autorius neatsako už bet kokį neteisėtą šio kodo panaudojimą. Naudojimas – jūsų rizika.
 -------------------------------------------------------------------------------------------------------------------------
 DESCRIPTION (ENGLISH)
 
@@ -16,3 +17,5 @@ This repository is intended for educational purposes and contains lab documentat
 IMPORTANT LEGAL NOTICE
 
 All methodologies and scripts in this repository are intended solely for learning, analysis, and defensive cybersecurity purposes. It is strictly forbidden to apply any of these techniques on real networks that you do not own or do not have explicit written authorization to test. Unauthorized use of this material may be illegal and could lead to criminal or civil liability.
+
+The authors are not responsible for any misuse of this code. Use entirely at your own risk.
